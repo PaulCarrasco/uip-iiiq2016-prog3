@@ -1,0 +1,26 @@
+– La MIT License  Se trata de una licencia que suele ser utilizada cuando el creador del software quiere que el código sea accesible para el mayor número de desarrolladores y trabajos derivados posible y no le importa dónde o cómo vaya a ser el futuro uso del código, ya que éste puede reescribirse bajo una licencia del tipo que sea, incluso privativa.
+
+Es, por lo tanto, una licencia de código abierto (open source), libre (free software) y sin copyleft, es decir, es completamente permisiva y sin protección heredada. Técnicamente se trata de una licencia corta, sencilla y fácil de entender.
+
+
+MIT License 
+ 
+Copyright (c) 2016 PaulCarrasco 
+ 
+Permission is hereby granted, free of charge, to any person obtaining a copy 
+of this software and associated documentation files (the "Software"), to deal 
+in the Software without restriction, including without limitation the rights 
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell 
+copies of the Software, and to permit persons to whom the Software is 
+furnished to do so, subject to the following conditions: 
+ 
+The above copyright notice and this permission notice shall be included in all 
+copies or substantial portions of the Software. 
+ 
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
+SOFTWARE. 
